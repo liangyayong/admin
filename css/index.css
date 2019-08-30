@@ -1,0 +1,23 @@
+.app .ul {
+  list-style: none;
+}
+.app .ul li h3 {
+  float: left;
+  font-size: 25px;
+}
+.app .ul li p {
+  float: left;
+  font-size: 13px;
+}
+.app .ul li:nth-child(1) {
+  height: 120px;
+  background-color: #fbb;
+}
+.app .ul li:nth-child(2) {
+  height: 120px;
+  background-color: #fbb;
+}
+.app .ul li:nth-child(3) {
+  height: 120px;
+  background-color: #fbb;
+}
